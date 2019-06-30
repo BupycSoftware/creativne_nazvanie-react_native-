@@ -1,0 +1,9 @@
+node_modules/
+Архив.zip
+.DS_Store
+.eslintrc.yml
+*.md
+.idea/workspace.xml
+*.xml
+.idea/*
+*workspace.xml
